@@ -4,7 +4,9 @@
 #### Open for collaboration in:
 1. Projects with Docker requirements
 2. Automation projects using Python
-2. Full stack projects
+2. Full stack projects 
+  - professional experience with Flask, MongoDB, GCP, ReactJS
+  - personal experience with NodeJS, ExpressJS, Postgres, Springboot
 3. NLP Projects
 #### Experience
 - Software Engineer at Lowe's India
