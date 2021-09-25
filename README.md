@@ -1,6 +1,6 @@
 ## Shubham Jawandhiya
 ### Solving complex problems by programming excites me 😎
-#### ❤ Python, Linux, Docker
+#### ❤ Python, Linux, Docker, React
 #### Open for collaboration in ( but not limited by ):
 1. Projects with Docker requirements
 2. Automation projects using Python
@@ -11,7 +11,7 @@
 #### Experience
 - Software Engineer at Lowe's India
 - Ex Software Engineering Intern at Crio.do
-#### 📭 Reach me :     
+#### 📭 Reach me :    
 LinkedIn: https://www.linkedin.com/in/shubhamjawandhiya/    
 Mail   : shubhamjawandhiya304@gmail.com
 
