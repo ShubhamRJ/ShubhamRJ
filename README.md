@@ -9,7 +9,7 @@
     - personal experience with NodeJS, ExpressJS, Postgres, Springboot
 3. NLP Projects
 #### Experience
-- Software Engineer at Lowe's India
+- Ex Software Engineer at Lowe's India
 - Ex Software Engineering Intern at Crio.do
 #### 📭 Reach me :    
 LinkedIn: https://www.linkedin.com/in/shubhamjawandhiya/    
