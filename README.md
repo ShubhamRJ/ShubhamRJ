@@ -1,13 +1,6 @@
 ## Shubham Jawandhiya
 ### Solving complex problems by programming excites me 😎
-#### ❤ Python, Linux, Docker, React
-#### Open for collaboration in ( but not limited by ):
-1. Projects with Docker requirements
-2. Automation projects using Python
-2. Full stack projects 
-    - professional experience with Flask, MongoDB, GCP, ReactJS
-    - personal experience with NodeJS, ExpressJS, Postgres, Springboot
-3. NLP Projects
+#### ❤ Python, Linux, Docker, React, NLP
 #### Experience
 - Ex Software Engineer at Lowe's India
 - Ex Software Engineering Intern at Crio.do
