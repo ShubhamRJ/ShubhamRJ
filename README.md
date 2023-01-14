@@ -7,8 +7,8 @@
 - Ex Software Engineering Intern at Crio.do
 #### 📭 Reach me :    
 LinkedIn: https://www.linkedin.com/in/shubhamjawandhiya/    
-Mail   : shubhamjawandhiya304@gmail.com
-Website: shubhamjawandhiya.vercel.app
+Mail   : shubhamjawandhiya304@gmail.com  
+Website: https://shubhamjawandhiya.vercel.app
 
 <!--
 **ShubhamRJ/ShubhamRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
