@@ -1,12 +1,14 @@
 ## Shubham Jawandhiya
 ### Solving complex problems by programming excites me 😎
-#### ❤ Python, Linux, Docker, React, NLP
+#### ❤ Python, JavaScript, C++, Docker, React, NLP
+#### 🌱 I’m currently a master's computer science student.
 #### Experience
 - Ex Software Engineer at Lowe's India
 - Ex Software Engineering Intern at Crio.do
 #### 📭 Reach me :    
 LinkedIn: https://www.linkedin.com/in/shubhamjawandhiya/    
 Mail   : shubhamjawandhiya304@gmail.com
+Website: shubhamjawandhiya.vercel.app
 
 <!--
 **ShubhamRJ/ShubhamRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
