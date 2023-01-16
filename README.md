@@ -1,4 +1,7 @@
 ## Shubham Jawandhiya
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ShubhamRJ.ShubhamRJ)
+
 ### Solving complex problems by programming excites me 😎
 #### ❤ Python, JavaScript, C++, Docker, React, NLP
 #### 🌱 I’m currently a master's computer science student.
