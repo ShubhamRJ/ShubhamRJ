@@ -1,6 +1,6 @@
 ## Shubham Jawandhiya
 
-[![HitCount](https://hits.dwyl.com/ShubhamRJ/{project}.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ShubhamRJ/{project})
+[![HitCount](https://hits.dwyl.com/ShubhamRJ/ShubhamRJ.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ShubhamRJ/ShubhamRJ)
 
 ### Solving complex problems and understanding technologies in-depth excites me 😎
 #### ❤ Python, JavaScript, C++, Docker, React, NLP
