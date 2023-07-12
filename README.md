@@ -2,6 +2,13 @@
 
 [![HitCount](https://hits.dwyl.com/ShubhamRJ/ShubhamRJ.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ShubhamRJ/ShubhamRJ)
 
+<a href="https://shubhamjawandhiya.vercel.app/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamRJ&show_icons=true&theme=radical&card_width=320" />
+</a>
+<a href="https://shubhamjawandhiya.vercel.app/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamRJ&layout=compact&theme=radical&hide=Jupyter%20%Notebook&card_width=320" />
+</a>
+
 ### Solving complex problems and understanding technologies in-depth excites me 😎
 #### ❤ Python, JavaScript, C++, Docker, React, NLP
 #### 🌱 I’m currently a master's computer science student.
